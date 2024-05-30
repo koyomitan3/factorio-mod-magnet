@@ -1,7 +1,5 @@
 # Factorio Mod Mirror ⚙️
 
-## Description
-
 Adds a mirror download button button in Factorio mod pages (Forked from RE146.dev)
 
 ## Installation
