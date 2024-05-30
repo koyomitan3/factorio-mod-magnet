@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         Factorio Mod Magnet ⚙️
+// @name         Factorio Mod Mirror ⚙️
 // @namespace    https://re146.dev/
 // @version      2024.05.30.1a
-// @description  Adds a "Download from re146.dev" button in Factorio mod pages (Forked from RE146.dev)
+// @description  Adds a mirror download button in Factorio mod pages (Forked from RE146.dev)
 // @match        https://mods.factorio.com/mod/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=re146.dev/factorio/mods
-// @autor        rwt1226
+// @autor        koyomitan3
 // @grant        none
 // @license      MIT
 // ==/UserScript==
@@ -44,7 +44,7 @@
 })();
 function NewButton(modName) {
     const downloadButton = document.createElement('a');
-    downloadButton.innerText = 'Download from re146.dev';
+    downloadButton.innerText = 'Download Mirror Link';
     downloadButton.style.backgroundColor = '#e74c3c';
     downloadButton.style.color = '#ffffff';
     downloadButton.style.padding = '10px 20px';
