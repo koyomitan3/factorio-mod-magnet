@@ -10,7 +10,7 @@ Greasyfork link: https://greasyfork.org/en/scripts/496582-factorio-mod-mirror
 
 ## Usage
 
-Once installed, the button will appear at the top of mod pages on the Factorio mod portal. Clicking it will take you to the download page for the mod on re146.dev.
+Once installed, the button will appear at download section of the current mod page. Clicking it will take you to the download page for the mod on re146.dev.
 
 ## Credits
 
