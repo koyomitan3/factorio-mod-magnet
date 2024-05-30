@@ -1,10 +1,12 @@
 # Factorio Mod Mirror ⚙️
 
-Adds a mirror download button button in Factorio mod pages (Forked from RE146.dev)
+Userscript that adds a mirror download button button in Factorio mod pages (Forked from RE146.dev)
 
 ## Installation
 
 To use Factorio Mod Magnet, you need to have a userscript manager installed in your browser, such as Tampermonkey.
+
+Greasyfork link: https://greasyfork.org/en/scripts/496582-factorio-mod-mirror
 
 ## Usage
 
