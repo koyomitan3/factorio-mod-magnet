@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         Factorio Mod Magnet
+// @name         Factorio Mod Magnet ⚙️
 // @namespace    https://re146.dev/
-// @version      1.3
-// @description  Adds a red "Download from re146.dev" button on mod pages on the Factorio mod portal - Forked from RE146.dev
+// @version      2024.05.30.1a
+// @description  Adds a "Download from re146.dev" button in Factorio mod pages (Forked from RE146.dev)
 // @match        https://mods.factorio.com/mod/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=re146.dev/factorio/mods
+// @autor        rwt1226
 // @grant        none
 // @license      MIT
 // ==/UserScript==
