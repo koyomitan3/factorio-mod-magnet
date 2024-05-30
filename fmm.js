@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Factorio Mod Mirror ⚙️
-// @namespace    https://re146.dev/
+// @namespace    https://github.com/koyomitan3/factorio-mod-magnet
 // @version      2024.05.30.1a
 // @description  Adds a mirror download button in Factorio mod pages (Forked from RE146.dev)
 // @match        https://mods.factorio.com/mod/*
